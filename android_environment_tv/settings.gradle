@@ -1,0 +1,2 @@
+include ':mobile', ':tv'
+rootProject.name='android_environment_tv'
